@@ -41,7 +41,7 @@ __Availables Features__
   
   
 ## 📷 Demo  
-![Demo Image](https://i.imgur.com/EZI9HxX.png)  
+![Demo Image](https://i.imgur.com/ZbbGQix.png)  
  
    
   
