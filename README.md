@@ -63,4 +63,4 @@ Github: https://github.com/AkaDevloppement
   
 
 ### 📜 License
-CFX Resolver Bot is under licensed MIT [MIT License](None).
+CFX Resolver Bot is under licensed MIT [MIT License](https://github.com/AkaDevloppement/CFX-Resolver-Bot/blob/main/LICENSE).
