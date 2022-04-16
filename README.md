@@ -51,7 +51,10 @@ __Availables Features__
 Email : _akatools.fr@gmail.com_  
 Discord : `! "ℛყ𝖚K̭̭̏#5305`  
 Github: https://github.com/AkaDevloppement
-  
+
+##  📚 Contributions  
+  All suggestions are welcome.
+  Special thanks to (Kaneiki Web)[https://github.com/KanekiWeb] for the readme template
   
   
   
