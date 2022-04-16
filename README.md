@@ -54,7 +54,7 @@ Github: https://github.com/AkaDevloppement
 
 ##  📚 Contributions  
   All suggestions are welcome.
-  Special thanks to (Kaneiki Web)[https://github.com/KanekiWeb] for the readme template
+  Special thanks to [Kaneiki Web](https://github.com/KanekiWeb) for the readme template
   
   
   
